@@ -1,0 +1,170 @@
+INFO:_databaseLibrary:_get_food_truck called with applicant= Truck McTruckster and address=1234 Main Street
+ERROR:_databaseLibrary:Error in _load_trucks_table: near "McTruckster": syntax error
+INFO:_databaseLibrary:_load_trucks_table called
+ERROR:_databaseLibrary:Error in _load_trucks_table: near "McTruckster": syntax error
+INFO:_databaseLibrary:_get_food_truck called with applicant= Truck McTruckster and address=1234 Main Street
+ERROR:_databaseLibrary:Error in _load_trucks_table: near "McTruckster": syntax error
+INFO:_databaseLibrary:_load_trucks_table called
+ERROR:_databaseLibrary:Error in _load_trucks_table: near "McTruckster": syntax error
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+ERROR:_databaseLibrary:Error in _load_trucks_table: no such table: sf_food_trucks
+INFO:_databaseLibrary:_load_trucks_table called
+ERROR:_databaseLibrary:Error in _load_trucks_table: near "McTruckster": syntax error
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+ERROR:_databaseLibrary:Error in _load_trucks_table: no such table: sf_food_trucks
+INFO:_databaseLibrary:_load_trucks_table called
+ERROR:_databaseLibrary:Error in _load_trucks_table: near "McTruckster": syntax error
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+ERROR:_databaseLibrary:Error in _load_trucks_table: no such table: sf_food_trucks
+INFO:_databaseLibrary:_load_trucks_table called
+ERROR:_databaseLibrary:Error in _load_trucks_table: near "McTruckster": syntax error
+INFO:_databaseLibrary:_load_trucks_table called
+ERROR:_databaseLibrary:Error in _load_trucks_table: near "McTruckster": syntax error
+INFO:_databaseLibrary:_load_trucks_table called
+ERROR:_databaseLibrary:Error in _load_trucks_table: near "McTruckster": syntax error
+INFO:_databaseLibrary:_load_trucks_table called
+ERROR:_databaseLibrary:Error in _load_trucks_table: near "McTruckster": syntax error
+INFO:_databaseLibrary:_load_trucks_table called
+ERROR:_databaseLibrary:Error in _load_trucks_table: near "McTruckster": syntax error
+INFO:_databaseLibrary:_load_trucks_table called
+ERROR:_databaseLibrary:Error in _load_trucks_table: no such table: sf_food_trucks
+INFO:_databaseLibrary:_load_trucks_table called
+ERROR:_databaseLibrary:Error in _load_trucks_table: no such table: sf_food_trucks
+INFO:_databaseLibrary:_load_trucks_table called
+ERROR:_databaseLibrary:Error in _load_trucks_table: no such table: sf_food_trucks
+INFO:_databaseLibrary:_load_trucks_table called
+ERROR:_databaseLibrary:Error in _load_trucks_table: no such table: sf_food_trucks
+INFO:_databaseLibrary:_load_trucks_table called
+ERROR:_databaseLibrary:Error in _load_trucks_table: no such table: sf_food_trucks
+INFO:_databaseLibrary:_load_trucks_table called
+ERROR:_databaseLibrary:Error in _load_trucks_table: no such table: sf_food_trucks
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_delete_truck called
+DEBUG:_databaseLibrary:_delete_truck called successfully
+INFO:_databaseLibrary:_delete_truck called
+DEBUG:_databaseLibrary:_delete_truck called successfully
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: None
+INFO:_databaseLibrary:_get_food_truck called with latitude= '37.78767164448785' and longitude='-122.39976292583923'
+DEBUG:_databaseLibrary:_get_food_truck_lat_lon returns: None
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_get_food_truck called with latitude= '37.78767164448785' and longitude='-122.39976292583923'
+DEBUG:_databaseLibrary:_get_food_truck_lat_lon returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_delete_truck called
+DEBUG:_databaseLibrary:_delete_truck called successfully
+INFO:_databaseLibrary:_delete_truck called
+DEBUG:_databaseLibrary:_delete_truck called successfully
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: None
+INFO:_databaseLibrary:_get_food_truck called with latitude= '37.78767164448785' and longitude='-122.39976292583923'
+DEBUG:_databaseLibrary:_get_food_truck_lat_lon returns: None
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_delete_truck called
+DEBUG:_databaseLibrary:_delete_truck called successfully
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: None
+INFO:_databaseLibrary:_get_food_truck called with latitude= '37.78767164448785' and longitude='-122.39976292583923'
+DEBUG:_databaseLibrary:_get_food_truck_lat_lon returns: None
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_delete_truck called
+DEBUG:_databaseLibrary:_delete_truck called successfully
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: None
+INFO:_databaseLibrary:_get_food_truck called with latitude= '37.78767164448785' and longitude='-122.39976292583923'
+DEBUG:_databaseLibrary:_get_food_truck_lat_lon returns: None
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_delete_truck called
+DEBUG:_databaseLibrary:_delete_truck called successfully
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: None
+INFO:_databaseLibrary:_get_food_truck called with latitude= '37.78767164448785' and longitude='-122.39976292583923'
+DEBUG:_databaseLibrary:_get_food_truck_lat_lon returns: None
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_delete_truck called
+DEBUG:_databaseLibrary:_delete_truck called successfully
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: None
+INFO:_databaseLibrary:_get_food_truck called with latitude= '37.78767164448785' and longitude='-122.39976292583923'
+DEBUG:_databaseLibrary:_get_food_truck_lat_lon returns: None
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_delete_truck called
+DEBUG:_databaseLibrary:_delete_truck called successfully
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: None
+INFO:_databaseLibrary:_get_food_truck called with latitude= '37.78767164448785' and longitude='-122.39976292583923'
+DEBUG:_databaseLibrary:_get_food_truck_lat_lon returns: None
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_get_food_truck called with latitude= '37.78767164448785' and longitude='-122.39976292583923'
+DEBUG:_databaseLibrary:_get_food_truck_lat_lon returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')
+INFO:_databaseLibrary:_get_food_truck called with applicant= 'Truck McTruckster' and address='1234 Main Street'
+DEBUG:_databaseLibrary:_get_food_truck returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_get_food_truck called with latitude= '37.78767164448785' and longitude='-122.39976292583923'
+DEBUG:_databaseLibrary:_get_food_truck_lat_lon returns: ('Truck McTruckster', '1234 Main Street', '37.78767164448785', '-122.39976292583923', 'Someplace nice with a water view', 'Tootsie rolls: lots of Tootsie rolls', 'PENDING')
+INFO:_databaseLibrary:_load_trucks_table called
+DEBUG:_databaseLibrary:_load_trucks_table called successfully with SQL of : INSERT INTO sf_food_trucks (sf_objectid, applicant,address,latitude,longitude,locationdescription, fooditems, status) VALUES('ZZZ999999','Truck McTruckster','1234 Main Street','37.78767164448785','-122.39976292583923','Someplace nice with a water view','Tootsie rolls: lots of Tootsie rolls','PENDING')

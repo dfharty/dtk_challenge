@@ -1,0 +1,14 @@
+openapi: 3.0.3
+info:
+  title: San Francisco Food Trucks
+  description: San Francisco Food Trucks
+  version: 0.0.000000000000001
+servers:
+  - url: 'https//someplace.net/'
+paths:
+  /getFoodTruckList:
+  /getFoodTruck/{applicant}{address}:
+  /getFoodTruckByLatLon/{lattitude}{longitude}:
+
+
+  
